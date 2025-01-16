@@ -6,3 +6,18 @@ link to dataset:  https://www.kaggle.com/datasets/jangedoo/utkface-new
 Features
 - Gender Classification (Male/Female)
 - Age Prediction (Numerical)
+
+
+# NullClass-Internship-Tasks-2
+### ANIMAL DETECTION APP
+This repository contains the code for detecting carnivorous and other animals in images and videos using the YOLOv8 model. It also includes a simple GUI to make the process user-friendly.
+This project utilizes a pre-trained YOLOv8 model to detect and classify animals in images and videos. It highlights carnivorous animals with red bounding boxes and others with green. The project also features a graphical user interface (GUI) for ease of use.
+Features
+- Detect animals in images and videos.
+- Highlight carnivorous animals in red and others in green.
+- Display the count of carnivorous animals detected.
+- Simple GUI for selecting input files.
+
+
+# NullClass-Internship-Tasks-3
+### AGE AND EMOTION DETECTION
