@@ -21,3 +21,14 @@ Features
 
 # NullClass-Internship-Tasks-3
 ### AGE AND EMOTION DETECTION
+This project is a real-time age and emotion detection system built using Python, TensorFlow, OpenCV, and pre-trained models. It detects faces in a video stream, predicts their age group and emotion, and logs relevant data.
+Features
+- Detects age group and emotion from live webcam feed.
+- Highlights individuals based on age group:
+  - Not Allowed: `(0-2)`, `(8-12)`, `(60-100)`
+  - Allowed: All other age groups, with emotion detection.
+- Logs age, emotion, and entry time into a CSV file.
+# SOME OF THE REQUIRED FILES FOR TASK-3
+https://github.com/habom2310/People-tracking-with-Age-and-Gender-detection/blob/master/age_gender_models/age_net.caffemodel
+https://github.com/SajalSinha/Facial-Emotion-Recognition/blob/main/FER_model.h5
+
